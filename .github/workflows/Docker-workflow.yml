@@ -18,7 +18,7 @@ jobs:
           java-version: '11'
           distribution: 'adopt'
           architecture: x64
-      - name: Clean
+      - name: Cleaning Project
         run: mvn -ntp clean
       - name: Print Java and Maven version
         run: |
