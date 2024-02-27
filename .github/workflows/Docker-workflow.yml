@@ -7,7 +7,7 @@ on:
 
 jobs:
   build_Docker_image:
-    name: Push Docker image to Docker hub
+    name: Push Docker image to Docker hub -
     runs-on: ubuntu-latest
 
     steps:
