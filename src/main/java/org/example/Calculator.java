@@ -12,7 +12,7 @@ public class Calculator { //this is a comment
 
     public int subtract(int a, int b){
         return a - b;
-    }
+    }// comment
 
     public int multiply(int a, int b){
         return a * b;
